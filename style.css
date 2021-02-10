@@ -9,3 +9,9 @@
     min-height: 20px;
     background-color: cyan;
 }
+.form {
+    width: 300px;
+    min-height: 50px;
+    border-radius: 5px;
+    background-color: darkgray;
+}
