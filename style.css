@@ -8,4 +8,10 @@
     min-width: 40px;
     min-height: 20px;
     background-color: cyan;
+    color: darkred;
+}
+.list-item {
+    width: 150px;
+    min-height: 50px;
+    padding: 5px;
 }
