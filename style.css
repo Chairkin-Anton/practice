@@ -1,0 +1,11 @@
+.container {
+    width: 400px;
+    min-height: 400px;
+    padding: 50px;
+    background-color: brown;
+}
+.btn {
+    min-width: 40px;
+    min-height: 20px;
+    background-color: cyan;
+}
